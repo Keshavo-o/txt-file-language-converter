@@ -23,6 +23,4 @@ GEMINI_API_KEY=your_google_genai_api_key_here
 node server.js
 
 
-Server will start at:
-
-http://localhost:3000
+Server will start at : http://localhost:3000
