@@ -24,3 +24,5 @@ node server.js
 
 
 Server will start at : http://localhost:3000
+
+## NOTE : This project only works for txt files (currently doesn't support PDFs , will surely in future)
